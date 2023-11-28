@@ -1,8 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>platform-engineering-org/.github",
-    "default:pinDigestsDisabled"
+    "github>platform-engineering-org/.github"
   ],
   "automerge": false
 }
