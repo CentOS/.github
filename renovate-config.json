@@ -4,5 +4,6 @@
     "github>platform-engineering-org/.github",
     ":pinDigestsDisabled"
   ],
-  "automerge": false
+  "automerge": false,
+  "pinDigests": false
 }
